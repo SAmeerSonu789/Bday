@@ -310,6 +310,9 @@
     </div>
 
     <script src="main.js"></script>
-   
+       <div class="birthday-container">
+  <h1 class="birthday-container__text">Happy Birthday</h1>
+  <h1 class="birthday-container__text_teju">Teju</h1>
+    </div>
   </body>
 </html>
