@@ -9,7 +9,11 @@
     <title>flowers</title>
 </head>
 <body class="container">
-
+ <div class="birthday-container">
+  <span class="birthday-container__text">Happy Birthday</span>
+  <span class="birthday-container__text_teju">Teju</span>
+  
+    </div>
     <div class="night"></div>
     <div class="flowers">
       <div class="flower flower--1">
@@ -309,10 +313,6 @@
     </div>
 
     <script src="main.js"></script>
-    <div class="birthday-container">
-  <span class="birthday-container__text">Happy Birthday</span>
-  <span class="birthday-container__text_teju">Teju</span>
-  
-    </div>
+   
   </body>
 </html>
